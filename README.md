@@ -1,8 +1,7 @@
 # Mohamed Alaa 👋
 
 Front-End Developer 💻 
-
-Learning HTML, CSS, JavaScript 🚀  
+  
 
 
 <!--
